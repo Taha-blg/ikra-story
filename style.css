@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap');
+
+body{
+    font-family: "Cinzel", serif;
+    background-color: rgba(150, 158, 157, 0.76);
+    text-align: center;
+}
+
+p {
+  font-size : 20px;
+}
+a{
+color:rgb(26, 26, 26);
+text-decoration : none;
+font-weight: 500;
+}
+a:hover{
+    color: cornflowerblue;
+    text-decoration: underline;
+}
+ul{
+   list-style-type: none;
+}
